@@ -18,6 +18,7 @@ public class Main {
     System.out.println("Michael Clements");
     System.out.println("Team Coach: Michael Clements");
     System.out.println("Emily Kelley");
+    System.out.println("ZheCheng Song");
     System.out.println("Smera Gora");
 }
 }
